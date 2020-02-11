@@ -1,0 +1,16 @@
+GET /
+{ host: 'localhost:8800',
+  connection: 'keep-alive',
+  pragma: 'no-cache',
+  'cache-control': 'no-cache',
+  'upgrade-insecure-requests': '1',
+  'user-agent':
+   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
+  'sec-fetch-user': '?1',
+  accept:
+   'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site': 'cross-site',
+  'sec-fetch-mode': 'navigate',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
+  cookie: '_ga=GA1.1.283165629.1571341849; cc_data=10824' }

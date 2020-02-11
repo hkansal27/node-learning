@@ -1,0 +1,14 @@
+GET /favicon.ico
+{ host: 'localhost:8800',
+  connection: 'keep-alive',
+  pragma: 'no-cache',
+  'cache-control': 'no-cache',
+  'user-agent':
+   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
+  accept: 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site': 'same-origin',
+  'sec-fetch-mode': 'no-cors',
+  referer: 'http://localhost:8800/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
+  cookie: '_ga=GA1.1.283165629.1571341849; cc_data=10824' }
