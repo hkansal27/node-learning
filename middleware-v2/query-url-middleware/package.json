@@ -1,5 +1,5 @@
 {
-  "name": "inbuilt-logger",
+  "name": "query-url-middleware",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "connect": "^3.7.0",
-    "errorhandler": "^1.5.1",
-    "morgan": "^1.9.1"
+    "qs": "^6.9.1"
   }
 }

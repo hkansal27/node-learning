@@ -1,5 +1,5 @@
 {
-  "name": "inbuilt-logger",
+  "name": "body-parser-middleware",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "connect": "^3.7.0",
-    "errorhandler": "^1.5.1",
     "morgan": "^1.9.1"
   }
 }
