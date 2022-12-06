@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "connect": "^3.7.0",
-    "qs": "^6.9.1"
+    "qs": "^6.9.7"
   }
 }
